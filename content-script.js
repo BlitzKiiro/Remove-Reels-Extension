@@ -1,4 +1,4 @@
-//wait for DOM element to render
+//wait for Reels DOM element to render
 const waitForReels = () => {
   console.log("remove reels extension is watching content");
   const selectors = ["[aria-label=Reels]", "[aria-label=ريلز]"];

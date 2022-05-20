@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Remove Reels",
   "version": "1.0.0",
-  "description": "Remove Facebook reels from your time line",
+  "description": "Remove Facebook reels from your time line, remove distracting irrelevant video content that you've not originally subscribed to",
   "action": {
     "default_icon": "assets/icon.png",
     "default_popup": "index.html"
